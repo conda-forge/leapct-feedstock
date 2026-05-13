@@ -192,6 +192,3 @@ Feedstock Maintainers
 
 * [@alashworth](https://github.com/alashworth/)
 
-
-<!-- dummy commit to enable rerendering -->
-
