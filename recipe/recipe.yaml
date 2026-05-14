@@ -19,7 +19,7 @@ source:
 build:
   number: 0
   skip:
-    - cuda_compiler == "None"
+    - cuda_compiler_version == "None"
 
 outputs:
   - package:
